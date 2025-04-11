@@ -56,6 +56,6 @@ A partir dos resultados, foi possível perceber que a IA consegue classificar co
 Grandes empresas de tecnologia, Amazon, e ferramentas disponíveis em extensões do Google Chrome já utilizam outros serviços de IAs de análise de sentimentos para resumir a opinião geral dos usuários sobre um produto ou serviço.
 
 ![IA Amazon](imagens/amazon.png)
-![IA Chrome](imagens/Chrome.png)
+![IA Chrome](imagens/chrome.png)
 
 ---
